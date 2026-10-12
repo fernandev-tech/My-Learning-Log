@@ -1,9 +1,0 @@
-# Venda-de-produtos-linguagem-c
-## Como funciona?
-- Execute o arquivo
-- Aparece uma lista de produtos
-- Escolhe o produto pelo número antes do produto
-- O programa pedi o valor, insira um valor a pagar
-- E o programa apresenta o troco se houver.
-## Autor 
-Desenvolvido por [Fernando B. Sebastião] (https://github.com/fernandev-tech)
